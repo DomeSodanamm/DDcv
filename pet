@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>😀 Metinan's personal site</title>
+  </head>
+  <body>
+    
+    <h1>Metinan Laosakun</h1>
+    <p><i>WDC</i> <strong> Equipment</strong> <em>Engineer</em></p>
+    <p>Love pet and growing plant.😀</p>
+    <hr size="1" noshade>
+    <h3>Benchtest </h3>
+    <ul>
+      <li>Xcalibre</li>
+      <li>Omega</li>
+      <li>Optimus</li>
+    </ul>
+    <h3>Pet</h3>
+    <ol type="i">
+      <li><strong><a href="https://www.google.co.th/">Dog</a></strong></li>
+      <li>Fish</li>
+    </ol>
+  </body>
+</html>
